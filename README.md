@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, My name is Abdulrahman Kalantan
+<div align="justify">An industrial engineer enthusiast focused on analytics, programming, optimization, supply chain and logistics. Experienced in working with optimization techniques to increase profitability, data analytics to search for busniess insights improvements, and inventory forecasting. Proficient in analyzing, extracting and visualizing data, and monitoring KPIs for enhance decision-making. </div>
+
+Skills: Arena simulation software, MATLAB, Auto CAD, Python, Microsoft Excel, Minitab, Data Analysis,, Lean Six Sigma 
+
+- 🌱 I’m currently learning Data analysis, Decision-making, Python. 
+
+
+My Linkedin www.linkedin.com/in/abdulrahman-kalantantan-7b0579221
+
+
+
+
 
 <!--
 **AbdalrahmanAAK/AbdalrahmanAAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
