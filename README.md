@@ -6,7 +6,7 @@ Skills: Arena simulation software, MATLAB, Auto CAD, Python, Microsoft Excel, Mi
 - 🌱 I’m currently learning Data analysis, Decision-making, Python. 
 
 
-My Linkedin www.linkedin.com/in/abdulrahman-kalantantan-7b0579221
+
 
 
 
